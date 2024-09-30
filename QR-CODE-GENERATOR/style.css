@@ -38,3 +38,6 @@ box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 .head{
     background-color: #c9d2d9;
     }
+button{
+background-color: black !important;
+    }
