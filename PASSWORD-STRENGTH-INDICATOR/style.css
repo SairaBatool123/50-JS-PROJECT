@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    /* font-family: "Poppins", system-ui !important; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-wrap: wrap;
+    font-style: italic !important;
+    background-color: #feacbb!important;
+}
+
+h3 {
+    display: inline-block;
+
+    font-size: 15px !important;
+}
+#passInt:focus{
+    outline: none;
+}
+.card:hover{
+    border: 1px solid #feacbb !important;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
